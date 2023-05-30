@@ -1,0 +1,15 @@
+/Users/nazarmarusak/Projects/MSD/bin/Debug/net7.0/MSD
+/Users/nazarmarusak/Projects/MSD/bin/Debug/net7.0/MSD.deps.json
+/Users/nazarmarusak/Projects/MSD/bin/Debug/net7.0/MSD.runtimeconfig.json
+/Users/nazarmarusak/Projects/MSD/bin/Debug/net7.0/MSD.dll
+/Users/nazarmarusak/Projects/MSD/bin/Debug/net7.0/MSD.pdb
+/Users/nazarmarusak/Projects/MSD/obj/Debug/net7.0/MSD.csproj.AssemblyReference.cache
+/Users/nazarmarusak/Projects/MSD/obj/Debug/net7.0/MSD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nazarmarusak/Projects/MSD/obj/Debug/net7.0/MSD.AssemblyInfoInputs.cache
+/Users/nazarmarusak/Projects/MSD/obj/Debug/net7.0/MSD.AssemblyInfo.cs
+/Users/nazarmarusak/Projects/MSD/obj/Debug/net7.0/MSD.csproj.CoreCompileInputs.cache
+/Users/nazarmarusak/Projects/MSD/obj/Debug/net7.0/MSD.dll
+/Users/nazarmarusak/Projects/MSD/obj/Debug/net7.0/refint/MSD.dll
+/Users/nazarmarusak/Projects/MSD/obj/Debug/net7.0/MSD.pdb
+/Users/nazarmarusak/Projects/MSD/obj/Debug/net7.0/MSD.genruntimeconfig.cache
+/Users/nazarmarusak/Projects/MSD/obj/Debug/net7.0/ref/MSD.dll
